@@ -1,0 +1,22 @@
+# Large binary files — track metadata, not content
+raw/papers/pdf/*.pdf
+raw/datasets/*.bag
+raw/datasets/*.bin
+raw/datasets/*.zip
+
+# Obsidian workspace state (machine-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Ingest status (optional — remove if you want to track it)
+# .ingest_status.json
