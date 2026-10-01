@@ -29,7 +29,9 @@ TYPE_DIR = {
 
 def load_status() -> dict:
     if STATUS_FILE.exists():
-        return json.loads(STATUS_FILE.read_text())
+        text = STATUS_FILE.read_text().strip()
+        if text:
+            return json.loads(text)
     return {}
 
 

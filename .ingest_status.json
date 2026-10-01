@@ -1,0 +1,348 @@
+{
+  "raw/papers/pdf/V-JEPA2.pdf": {
+    "ingested": "2026-05-17",
+    "compiled": true,
+    "compiled_date": "2026-05-17",
+    "wiki_article": "wiki/papers/assran_2025_vjepa2.md",
+    "concepts_created": [
+      "wiki/concepts/joint-embedding-predictive-architecture.md",
+      "wiki/concepts/latent-world-models.md",
+      "wiki/concepts/model-predictive-control.md",
+      "wiki/concepts/video-ssl.md"
+    ]
+  },
+  "raw/papers/pdf/V-JEPA.pdf": {
+    "ingested": "2026-05-17",
+    "compiled": true,
+    "compiled_date": "2026-05-17",
+    "wiki_article": "wiki/papers/bardes_2024_vjepa.md",
+    "concepts_updated": [
+      "wiki/concepts/joint-embedding-predictive-architecture.md",
+      "wiki/concepts/video-ssl.md"
+    ]
+  },
+  "raw/papers/pdf/V-JEPA-AC.pdf": {
+    "ingested": "2026-05-17",
+    "compiled": true,
+    "compiled_date": "2026-05-17",
+    "wiki_article": "wiki/papers/terver_2026_jepa_wm.md",
+    "concepts_updated": [
+      "wiki/concepts/latent-world-models.md",
+      "wiki/concepts/model-predictive-control.md"
+    ]
+  },
+  "raw/papers/pdf/LeJEPA.pdf": {
+    "ingested": "2026-05-17",
+    "compiled": true,
+    "compiled_date": "2026-05-17",
+    "wiki_article": "wiki/papers/balestriero_2025_lejepa.md",
+    "concepts_created": [
+      "wiki/concepts/sigreg.md"
+    ],
+    "concepts_updated": [
+      "wiki/concepts/joint-embedding-predictive-architecture.md"
+    ]
+  },
+  "raw/papers/pdf/curiosity_robots.pdf": {
+    "ingested": "2026-05-17",
+    "compiled": true,
+    "compiled_date": "2026-05-17",
+    "wiki_article": "wiki/papers/burda_2018_curiosity_largescale.md",
+    "concepts_created": [
+      "wiki/concepts/intrinsic-motivation.md"
+    ]
+  },
+  "raw/papers/pdf/curioous_robots.pdf": {
+    "ingested": "2026-05-17",
+    "compiled": false
+  },
+  "raw/papers/pdf/DDQN.pdf": {
+    "ingested": "2026-05-17",
+    "compiled": true,
+    "compiled_date": "2026-05-17",
+    "wiki_article": "wiki/papers/van_hasselt_2016_ddqn.md",
+    "concepts_created": [
+      "wiki/concepts/value-based-rl.md"
+    ],
+    "concepts_updated": [
+      "wiki/concepts/policy-gradient-methods.md"
+    ]
+  },
+  "raw/papers/pdf/dex_func_grasp.pdf": {
+    "ingested": "2026-05-17",
+    "compiled": true,
+    "compiled_date": "2026-05-17",
+    "wiki_article": "wiki/papers/agarwal_2023_dex_func_grasp.md",
+    "concepts_created": [
+      "wiki/concepts/dexterous-manipulation.md",
+      "wiki/concepts/sim-to-real.md"
+    ],
+    "concepts_updated": [
+      "wiki/concepts/policy-gradient-methods.md"
+    ]
+  },
+  "raw/papers/pdf/extreme_parkour.pdf": {
+    "ingested": "2026-05-17",
+    "compiled": true,
+    "compiled_date": "2026-05-17",
+    "wiki_article": "wiki/papers/cheng_2023_extreme_parkour.md",
+    "concepts_created": [
+      "wiki/concepts/legged-locomotion.md"
+    ],
+    "concepts_updated": [
+      "wiki/concepts/sim-to-real.md"
+    ]
+  },
+  "raw/papers/pdf/midigap.pdf": {
+    "ingested": "2026-05-17",
+    "compiled": true,
+    "compiled_date": "2026-05-17",
+    "wiki_article": "wiki/papers/vonhartz_2025_midigap.md",
+    "concepts_created": [
+      "wiki/concepts/discrete-time-gaussian-processes.md"
+    ]
+  },
+  "raw/papers/pdf/pi_06_experience.pdf": {
+    "ingested": "2026-05-17",
+    "compiled": true,
+    "compiled_date": "2026-05-17",
+    "wiki_article": "wiki/papers/amin_2025_pi06_experience.md",
+    "concepts_created": [
+      "wiki/concepts/vision-language-action-models.md"
+    ]
+  },
+  "raw/papers/pdf/TD-MCP.pdf": {
+    "ingested": "2026-05-17",
+    "compiled": false
+  },
+  "raw/papers/pdf/PPO.pdf": {
+    "ingested": "2026-05-17",
+    "compiled": true,
+    "compiled_date": "2026-05-17",
+    "wiki_article": "wiki/papers/schulman_2017_ppo.md",
+    "concepts_created": [
+      "wiki/concepts/policy-gradient-methods.md"
+    ],
+    "concepts_updated": [
+      "wiki/concepts/intrinsic-motivation.md"
+    ]
+  },
+  "raw/papers/pdf/GBP.pdf": {
+    "ingested": "2026-05-17",
+    "compiled": true,
+    "compiled_date": "2026-05-17",
+    "wiki_article": "wiki/papers/ortiz_2021_gbp.md",
+    "concepts_created": [
+      "wiki/concepts/gaussian-belief-propagation.md"
+    ]
+  },
+  "raw/papers/pdf/GP_w_GBP.pdf": {
+    "ingested": "2026-05-17",
+    "compiled": true,
+    "compiled_date": "2026-05-17",
+    "wiki_article": "wiki/papers/bui_2014_tree_gp.md",
+    "concepts_created": [
+      "wiki/concepts/sparse-gaussian-processes.md"
+    ],
+    "concepts_updated": [
+      "wiki/concepts/gaussian-belief-propagation.md"
+    ]
+  },
+  "raw/papers/pdf/HRIW.pdf": {
+    "ingested": "2026-05-17",
+    "compiled": true,
+    "compiled_date": "2026-05-17",
+    "wiki_article": "wiki/papers/bahl_2022_whirl.md",
+    "concepts_created": [
+      "wiki/concepts/learning-from-human-videos.md"
+    ]
+  },
+  "raw/papers/pdf/video_learning.pdf": {
+    "ingested": "2026-05-17",
+    "compiled": true,
+    "compiled_date": "2026-05-17",
+    "wiki_article": "wiki/papers/bahl_2023_vrb.md",
+    "concepts_created": [
+      "wiki/concepts/visual-affordances-robotics.md"
+    ],
+    "concepts_updated": [
+      "wiki/concepts/learning-from-human-videos.md"
+    ]
+  },
+  "raw/papers/pdf/neural_dyn_policies.pdf": {
+    "ingested": "2026-05-18",
+    "compiled": true,
+    "compiled_date": "2026-05-18",
+    "wiki_article": "wiki/papers/bahl_2020_ndp.md",
+    "concepts_created": [
+      "wiki/concepts/dynamic-movement-primitives.md"
+    ],
+    "concepts_updated": [
+      "wiki/concepts/discrete-time-gaussian-processes.md"
+    ]
+  },
+  "raw/papers/pdf/newt.pdf": {
+    "ingested": "2026-05-18",
+    "compiled": true,
+    "compiled_date": "2026-05-18",
+    "wiki_article": "wiki/papers/hansen_2025_newt.md",
+    "concepts_updated": [
+      "wiki/concepts/latent-world-models.md"
+    ]
+  },
+  "raw/papers/pdf/rlt.pdf": {
+    "ingested": "2026-05-18",
+    "compiled": true,
+    "compiled_date": "2026-05-18",
+    "wiki_article": "wiki/papers/xu_2025_rlt.md",
+    "concepts_updated": [
+      "wiki/concepts/vision-language-action-models.md"
+    ]
+  },
+  "raw/papers/pdf/RMA.pdf": {
+    "ingested": "2026-05-18",
+    "compiled": false
+  },
+  "raw/papers/pdf/TD-JEPA.pdf": {
+    "ingested": "2026-05-18",
+    "compiled": true,
+    "compiled_date": "2026-05-18",
+    "wiki_article": "wiki/papers/bagatella_2025_tdjepa.md",
+    "concepts_created": [
+      "wiki/concepts/successor-features.md",
+      "wiki/concepts/zero-shot-unsupervised-rl.md"
+    ],
+    "concepts_updated": [
+      "wiki/concepts/joint-embedding-predictive-architecture.md"
+    ]
+  },
+  "raw/papers/pdf/visual_locomotion.pdf": {
+    "ingested": "2026-05-18",
+    "compiled": false
+  },
+  "raw/papers/pdf/mimic_video.pdf": {
+    "ingested": "2026-05-18",
+    "compiled": true,
+    "compiled_date": "2026-05-18",
+    "wiki_article": "wiki/papers/pai_2025_mimic_video.md",
+    "concepts_created": [
+      "wiki/concepts/video-action-models.md"
+    ],
+    "concepts_updated": [
+      "wiki/concepts/vision-language-action-models.md"
+    ]
+  },
+  "raw/papers/pdf/IdentJEPA.pdf": {
+    "ingested": "2026-06-04",
+    "compiled": false
+  },
+  "raw/papers/pdf/sutton-92a.pdf": {
+    "ingested": "2026-09-24",
+    "compiled": true,
+    "compiled_date": "2026-09-24",
+    "wiki_article": "wiki/papers/sutton_1992_idbd.md",
+    "concepts_created": [
+      "wiki/concepts/step-size-adaptation.md",
+      "wiki/concepts/continual-learning-and-tracking.md"
+    ],
+    "concepts_updated": [
+      "wiki/concepts/value-based-rl.md",
+      "wiki/concepts/policy-gradient-methods.md"
+    ]
+  },
+  "raw/papers/pdf/SwiftTD-RLC.pdf": {
+    "ingested": "2026-08-05",
+    "compiled": true,
+    "compiled_date": "2026-09-24",
+    "wiki_article": "wiki/papers/javed_2024_swifttd.md",
+    "concepts_created": [
+      "wiki/concepts/td-lambda-and-eligibility-traces.md"
+    ],
+    "concepts_updated": [
+      "wiki/concepts/step-size-adaptation.md",
+      "wiki/concepts/continual-learning-and-tracking.md",
+      "wiki/concepts/value-based-rl.md"
+    ]
+  },
+  "raw/papers/pdf/GBP_learning.pdf": {
+    "ingested": "2026-09-29",
+    "compiled": true,
+    "compiled_date": "2026-09-29",
+    "wiki_article": "wiki/papers/nabarro_2024_gbp_learning.md",
+    "concepts_updated": [
+      "wiki/concepts/gaussian-belief-propagation.md",
+      "wiki/concepts/continual-learning-and-tracking.md"
+    ]
+  },
+  "raw/papers/pdf/locoformer.pdf": {
+    "ingested": "2026-09-29",
+    "compiled": true,
+    "compiled_date": "2026-09-29",
+    "wiki_article": "wiki/papers/liu_2025_locoformer.md",
+    "concepts_created": [
+      "wiki/concepts/in-context-adaptation.md"
+    ],
+    "concepts_updated": [
+      "wiki/concepts/legged-locomotion.md",
+      "wiki/concepts/sim-to-real.md",
+      "wiki/concepts/continual-learning-and-tracking.md",
+      "wiki/concepts/policy-gradient-methods.md"
+    ]
+  },
+  "raw/papers/pdf/SuperDec.pdf": {
+    "ingested": "2026-09-29",
+    "compiled": true,
+    "compiled_date": "2026-09-29",
+    "wiki_article": "wiki/papers/fedele_2025_superdec.md",
+    "concepts_created": [
+      "wiki/concepts/superquadric-scene-representations.md"
+    ],
+    "concepts_updated": [
+      "wiki/concepts/dexterous-manipulation.md",
+      "wiki/concepts/visual-affordances-robotics.md"
+    ]
+  },
+  "raw/papers/pdf/DINO_WM.pdf": {
+    "ingested": "2026-09-29",
+    "compiled": true,
+    "compiled_date": "2026-09-29",
+    "wiki_article": "wiki/papers/zhou_2024_dino_wm.md",
+    "concepts_created": [
+      "wiki/concepts/pretrained-visual-representations.md"
+    ],
+    "concepts_updated": [
+      "wiki/concepts/latent-world-models.md",
+      "wiki/concepts/model-predictive-control.md",
+      "wiki/concepts/joint-embedding-predictive-architecture.md"
+    ]
+  },
+  "raw/repos/rl_lab": {
+    "ingested": "2026-09-29",
+    "compiled": false
+  },
+  "raw/repos/rl_lab/": {
+    "ingested": "2026-09-29",
+    "compiled": true,
+    "compiled_date": "2026-09-29",
+    "repo_head": "9b6cd05",
+    "wiki_articles": [
+      "wiki/codebase/rl_lab/_overview.md",
+      "wiki/codebase/rl_lab/ppo-agent.md",
+      "wiki/codebase/rl_lab/maniskill-training-pipeline.md",
+      "wiki/codebase/rl_lab/evaluation-protocol.md",
+      "wiki/codebase/rl_lab/research-roadmap.md",
+      "wiki/codebase/rl_lab/legacy-mujoco-and-auxiliary.md"
+    ],
+    "concepts_created": [
+      "wiki/concepts/rl-evaluation-methodology.md"
+    ],
+    "concepts_updated": [
+      "wiki/concepts/policy-gradient-methods.md",
+      "wiki/concepts/td-lambda-and-eligibility-traces.md",
+      "wiki/concepts/step-size-adaptation.md",
+      "wiki/concepts/pretrained-visual-representations.md",
+      "wiki/concepts/sigreg.md",
+      "wiki/concepts/continual-learning-and-tracking.md"
+    ]
+  }
+}
