@@ -2,6 +2,10 @@
 
 A personal research wiki compiled and maintained by an LLM (Claude Code), inspired by Andrej Karpathy's knowledge base approach. You feed it raw sources; it writes the wiki; you query the wiki; it generates outputs.
 
+<p align="center">
+  <img src="assets/graph.gif" alt="Obsidian graph view of the wiki: concept articles (red) and paper summaries (blue) linked by backlinks" width="640">
+</p>
+
 ---
 
 ## Mental Model
